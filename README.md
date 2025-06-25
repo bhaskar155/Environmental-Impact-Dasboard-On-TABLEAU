@@ -22,6 +22,7 @@ Key Insights
   - Only 33.5% of entities achieved high regulatory compliance.
 
 Features
+
   Interactive Filters: Drill down by Year, Industry, Region, and Compliance Level.
   Dynamic Visuals: Heatmaps for recycling rate by region and industry.
   Line graphs for year-wise energy trends.
