@@ -1,6 +1,7 @@
 Environmental Impact Analytics Dashboard
-  An interactive Tableau dashboard project analyzing environmental sustainability metrics across industries, regions, and years.
-  Built using a dataset of over 50,000 records, the dashboard enables data-driven insights into carbon emissions, energy usage, recycling performance, and regulatory compliance.
+
+An interactive Tableau dashboard project analyzing environmental sustainability metrics across industries, regions, and years.
+Built using a dataset of over 50,000 records, the dashboard enables data-driven insights into carbon emissions, energy usage, recycling performance, and regulatory compliance.
 
 Overview
   This project provides a comprehensive environmental analysis across:
