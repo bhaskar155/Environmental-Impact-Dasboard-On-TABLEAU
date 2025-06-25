@@ -22,10 +22,11 @@ Key Insights
   - Only 33.5% of entities achieved high regulatory compliance.
 
 Features
-  -Interactive Filters: Drill down by Year, Industry, Region, and Compliance Level.
-  -Dynamic Visuals: Heatmaps for recycling rate by region and industry.
-  -Line graphs for year-wise energy trends.
-  -Scatter plot showing correlation between emissions and recycling.
-  -Compliance breakdown via pie chart.
-  -KPI Highlights on total emissions, water usage, and energy consumption.
-  -Designed for Decision-Makers: Identify underperforming sectors and regions to guide sustainability policies.
+
+-Interactive Filters: Drill down by Year, Industry, Region, and Compliance Level.
+-Dynamic Visuals: Heatmaps for recycling rate by region and industry.
+-Line graphs for year-wise energy trends.
+-Scatter plot showing correlation between emissions and recycling.
+-Compliance breakdown via pie chart.
+-KPI Highlights on total emissions, water usage, and energy consumption.
+-Designed for Decision-Makers: Identify underperforming sectors and regions to guide sustainability policies.
