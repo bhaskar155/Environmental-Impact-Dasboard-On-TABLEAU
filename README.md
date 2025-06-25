@@ -9,8 +9,7 @@ Overview
     7 global regions
     6 industrial sectors
     4-year time span
-
-Preview of the Dashboard
+    
 ![image](https://github.com/user-attachments/assets/35675f25-2c51-4e5b-bb06-da713ce68ec7)
 
 Using Tableau, the dashboard presents intuitive visualizations for stakeholders to monitor and compare ESG (Environmental, Social, Governance) performance.
